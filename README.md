@@ -3,7 +3,6 @@ Tableau project on Netflix with using Netflix tittles data set.
 
 
 
-![Screenshot (101)](https://github.com/user-attachments/assets/a5ae26f9-b8f8-4fcb-b74d-e19b110f37df)
 ![Screenshot (87)](https://github.com/user-attachments/assets/35fdd4bf-9711-405f-9438-058f49840483)
 
 
