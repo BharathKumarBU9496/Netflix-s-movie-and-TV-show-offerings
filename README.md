@@ -10,7 +10,7 @@ Tableau project on Netflix with using Netflix tittles data set.
 Dashboard Overview
 Title: Netflix Content Analysis Dashboard
 
-Data Source: Netflix content database up to 2024
+Data Source: Netflix content database up to 2024.
 
 Tools Used: Tableau for visualization, SQL for data processing
 
